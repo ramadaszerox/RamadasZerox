@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RAMADAS Zerox Centre - Karadga</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
+    header { background: #2c3e50; color: white; padding: 20px; text-align: center; }
+    nav { background: #34495e; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    nav a:hover { text-decoration: underline; }
+    section { padding: 20px; max-width: 900px; margin: auto; background: white; margin-top: 20px; border-radius: 10px; }
+    h2 { color: #2c3e50; }
+    footer { text-align: center; background: #2c3e50; color: white; padding: 15px; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>RAMADAS Zerox Centre</h1>
+    <p>Karadga, Taluka Nipani, Dist. Belgavi, Karnataka</p>
+  </header>
+
+  <nav>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Welcome to <b>RAMADAS Zerox Centre</b>, your one-stop solution for Xerox, printing, and documentation services in Karadga. 
+    We provide fast, reliable, and affordable services for students, professionals, and businesses.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Kannada, Marathi & English Typing</li>
+      <li>Photo Printing</li>
+      <li>Black & White / Colour Xerox</li>
+      <li>Lamination</li>
+      <li>Spiral Binding</li>
+      <li>Government Form Filling & Typing</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p><b>Owner:</b> Ravasaheb Jotiba Chindake</p>
+    <p><b>Address:</b> At Post Karadga, Taluka Nipani, Dist. Belgavi, Karnataka - 591263</p>
+    <p><b>Mobile:</b> <a href="tel:+919740874058">9740874058</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 RAMADAS Zerox Centre - All Rights Reserved</p>
+  </footer>
+</body>
+</html>
